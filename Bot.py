@@ -2,7 +2,7 @@ import requests
 import time
 
 # Ziel-URL der Website
-url = "https://example.com"
+url = "https://www.navigium.de/schule/vokabeltrainer/sprint/25076/SUBST,ADJ,PRON,VERB,ADV,KONJ,SUBJ,PRAEP,PHR,EIGN,ETC/BEDEUTUNGEN/lang/LA"
 
 # Anzahl der Requests, die gesendet werden sollen
 request_count = 3000 # Ändere dies nach Bedarf
